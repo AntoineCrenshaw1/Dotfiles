@@ -1,0 +1,6 @@
+# Tmux plugins (will be reinstalled via TPM)
+tmux/.tmux/plugins/
+
+# Any local/private configs you don't want to share
+**/local.conf
+**/.env

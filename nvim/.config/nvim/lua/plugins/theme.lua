@@ -1,0 +1,1 @@
+/home/antoinec/.config/omarchy/current/theme/neovim.lua
